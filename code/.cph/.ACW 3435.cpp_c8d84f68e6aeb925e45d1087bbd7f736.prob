@@ -1,0 +1,1 @@
+{"name":"Local: ACW 3435","url":"d:\\File\\code\\Cpp\\Algorithm study\\Shit-code-\\code\\ACW 3435.cpp","tests":[{"id":1744718188522,"input":"2 4\n9 18\n45057 49158\n7 12","output":"YES\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\File\\code\\Cpp\\Algorithm study\\Shit-code-\\code\\ACW 3435.cpp","group":"local","local":true}
