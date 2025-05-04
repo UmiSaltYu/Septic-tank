@@ -1,0 +1,1 @@
+{"name":"Local: CF 2106A","url":"d:\\File\\code\\Cpp\\Algorithm study\\Septic-tank\\code\\CF 2106A.cpp","tests":[{"id":1746013958292,"input":"5\n3\n101\n1\n1\n5\n00000\n2\n11\n3\n010\n","output":"5\n0\n5\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\File\\code\\Cpp\\Algorithm study\\Septic-tank\\code\\CF 2106A.cpp","group":"local","local":true}
